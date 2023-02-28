@@ -1,1 +1,1 @@
-This is new git file to add to git repositories.
+This is new git file to add to git repositories.Here are some changes made.
